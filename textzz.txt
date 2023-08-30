@@ -2,4 +2,4 @@ vedansh,5000
 varad,8000
 vaidehi,4010
 prakhar,10100
-
+sharik,3000
